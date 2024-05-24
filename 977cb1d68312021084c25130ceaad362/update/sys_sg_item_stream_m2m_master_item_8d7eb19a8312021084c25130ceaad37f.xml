@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="project Item Stream">c17eb19a8312021084c25130ceaad37e</item_stream>
+        <master_item display_value="project master_item">c17eb19a8312021084c25130ceaad37f</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 09:47:46</sys_created_on>
+        <sys_id>8d7eb19a8312021084c25130ceaad37f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="project" source="x_1305878_project">977cb1d68312021084c25130ceaad362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project">977cb1d68312021084c25130ceaad362</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_8d7eb19a8312021084c25130ceaad37f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 09:47:46</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

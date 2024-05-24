@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (project)">8d7eb19a8312021084c25130ceaad388</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (project)</name>
+        <order/>
+        <parent>4d7eb19a8312021084c25130ceaad37a</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 09:47:46</sys_created_on>
+        <sys_id>497eb19a8312021084c25130ceaad38f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (project)</sys_name>
+        <sys_package display_value="project" source="x_1305878_project">977cb1d68312021084c25130ceaad362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project">977cb1d68312021084c25130ceaad362</sys_scope>
+        <sys_update_name>sys_sg_button_instance_497eb19a8312021084c25130ceaad38f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 09:47:46</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=497eb19a8312021084c25130ceaad38f"/>
+</record_update>

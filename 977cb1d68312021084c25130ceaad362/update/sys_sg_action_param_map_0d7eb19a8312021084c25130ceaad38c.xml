@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (project)">8d7eb19a8312021084c25130ceaad388</button>
+        <item_parameter display_value="project short_description">057eb19a8312021084c25130ceaad386</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 09:47:46</sys_created_on>
+        <sys_id>0d7eb19a8312021084c25130ceaad38c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>057eb19a8312021084c25130ceaad386</sys_name>
+        <sys_package display_value="project" source="x_1305878_project">977cb1d68312021084c25130ceaad362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project">977cb1d68312021084c25130ceaad362</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_0d7eb19a8312021084c25130ceaad38c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 09:47:46</sys_updated_on>
+        <ui_parameter display_value="Short description">0d7eb19a8312021084c25130ceaad38a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

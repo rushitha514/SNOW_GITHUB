@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>true</is_extendable>
+        <label>project</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1305878_project_project</name>
+        <number_ref display_value="PRO">ee4ebd5a8312021084c25130ceaad3ab</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">4d0d6d1a8d30021087de63ac7f1f00b9</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 09:47:02</sys_created_on>
+        <sys_id>6e4ebd5a8312021084c25130ceaad36f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>project</sys_name>
+        <sys_package display_value="project" source="x_1305878_project">977cb1d68312021084c25130ceaad362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project">977cb1d68312021084c25130ceaad362</sys_scope>
+        <sys_update_name>sys_db_object_6e4ebd5a8312021084c25130ceaad36f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 09:47:03</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
